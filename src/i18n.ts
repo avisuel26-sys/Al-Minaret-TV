@@ -17,7 +17,7 @@ const resources = {
       "detect_location": "Detect My Location",
       "adhan_audio": "Adhan Audio",
       "upload_mp3": "Upload MP3",
-      "mosque_video": "Mosque Video",
+      "mosque_video": "Adhan Video",
       "upload_mp4": "Upload Video",
       "enter_url": "Enter URL",
       "reset_all": "Reset All Settings",
@@ -41,7 +41,18 @@ const resources = {
       },
       "next_prayer_label": "Next Prayer",
       "share": "Share",
-      "link_copied": "Link copied to clipboard"
+      "link_copied": "Link copied to clipboard",
+      "location_error": "Could not detect location. Please enter manually.",
+      "today": "Today",
+      "tomorrow": "Tomorrow",
+      "enter_fullscreen": "Enter Fullscreen",
+      "exit_fullscreen": "Exit Fullscreen",
+      "notifications": "Notifications",
+      "notify_before_prayer": "Notify before prayer",
+      "minutes": "min",
+      "off": "Off",
+      "notification_hint": "You will receive a browser notification before the prayer time.",
+      "prayer_starting_in": "{{prayer}} is starting in {{time}} minutes"
     }
   },
   fr: {
@@ -58,7 +69,7 @@ const resources = {
       "detect_location": "Détecter ma position",
       "adhan_audio": "Audio de l'Adhan",
       "upload_mp3": "Télécharger MP3",
-      "mosque_video": "Vidéo de la Mosquée",
+      "mosque_video": "Vidéo de l'Athan",
       "upload_mp4": "Télécharger Vidéo",
       "enter_url": "Entrer l'URL",
       "reset_all": "Réinitialiser tout",
@@ -82,7 +93,18 @@ const resources = {
       },
       "next_prayer_label": "Prochaine Prière",
       "share": "Partager",
-      "link_copied": "Lien copié dans le presse-papier"
+      "link_copied": "Lien copié dans le presse-papier",
+      "location_error": "Impossible de détecter la position. Veuillez entrer manuellement.",
+      "today": "Aujourd'hui",
+      "tomorrow": "Demain",
+      "enter_fullscreen": "Plein écran",
+      "exit_fullscreen": "Quitter plein écran",
+      "notifications": "Notifications",
+      "notify_before_prayer": "Notifier avant la prière",
+      "minutes": "min",
+      "off": "Désactivé",
+      "notification_hint": "Vous recevrez une notification avant l'heure de la prière.",
+      "prayer_starting_in": "{{prayer}} va débuter dans {{time}} minutes"
     }
   },
   ar: {
@@ -99,7 +121,7 @@ const resources = {
       "detect_location": "تحديد موقعي",
       "adhan_audio": "صوت الأذان",
       "upload_mp3": "رفع ملف MP3",
-      "mosque_video": "فيديو المسجد",
+      "mosque_video": "فيديو الأذان",
       "upload_mp4": "رفع فيديو",
       "enter_url": "أدخل الرابط",
       "reset_all": "إعادة تعيين الكل",
@@ -123,7 +145,18 @@ const resources = {
       },
       "next_prayer_label": "الصلاة القادمة",
       "share": "مشاركة",
-      "link_copied": "تم نسخ الرابط"
+      "link_copied": "تم نسخ الرابط",
+      "location_error": "تعذر تحديد الموقع. يرجى الإدخال يدوياً.",
+      "today": "اليوم",
+      "tomorrow": "غداً",
+      "enter_fullscreen": "ملء الشاشة",
+      "exit_fullscreen": "خروج من ملء الشاشة",
+      "notifications": "الإشعارات",
+      "notify_before_prayer": "تنبيه قبل الصلاة",
+      "minutes": "دقيقة",
+      "off": "إيقاف",
+      "notification_hint": "ستتلقى إشعاراً قبل وقت الصلاة.",
+      "prayer_starting_in": "{{prayer}} ستبدأ خلال {{time}} دقيقة"
     }
   },
   es: {
@@ -140,7 +173,7 @@ const resources = {
       "detect_location": "Detectar mi ubicación",
       "adhan_audio": "Audio del Adhan",
       "upload_mp3": "Subir MP3",
-      "mosque_video": "Video de la Mezquita",
+      "mosque_video": "Video del Adhan",
       "upload_mp4": "Subir Video",
       "enter_url": "Introducir URL",
       "reset_all": "Restablecer todo",
@@ -164,7 +197,18 @@ const resources = {
       },
       "next_prayer_label": "Próxima Oración",
       "share": "Compartir",
-      "link_copied": "Enlace copiado al portapapeles"
+      "link_copied": "Enlace copiado al portapapeles",
+      "location_error": "No se pudo detectar la ubicación. Por favor ingrese manualmente.",
+      "today": "Hoy",
+      "tomorrow": "Mañana",
+      "enter_fullscreen": "Pantalla completa",
+      "exit_fullscreen": "Salir de pantalla completa",
+      "notifications": "Notificaciones",
+      "notify_before_prayer": "Notificar antes de la oración",
+      "minutes": "min",
+      "off": "Apagado",
+      "notification_hint": "Recibirás una notificación antes de la hora de oración.",
+      "prayer_starting_in": "{{prayer}} comenzará en {{time}} minutos"
     }
   }
 };
