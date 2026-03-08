@@ -1,0 +1,5 @@
+{
+  "name": "Al-Minaret TV",
+  "description": "A Smart TV-optimized Islamic prayer application featuring accurate prayer times, customizable Adhan notifications, and immersive mosque backgrounds.",
+  "requestFramePermissions": ["geolocation"]
+}

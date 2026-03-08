@@ -1,0 +1,19 @@
+{
+  "name": "Prayer Times",
+  "short_name": "PrayerTimes",
+  "start_url": ".",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#09090b",
+  "theme_color": "#10b981",
+  "description": "Prayer times application for TV and Mobile",
+  "icons": [
+    {
+      "src": "https://imgbly.com/ib/W6H5zxU9ekTb2AU_1772934415.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
